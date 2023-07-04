@@ -1,0 +1,18 @@
+.employer {
+    width: 150px;
+    height: 250px;
+    margin-inline: 2rem;
+    border: 1px solid black;
+    padding-bottom: 3rem;
+}
+
+.employer a,img {
+    width: inherit;
+    height: 100%;
+}
+
+.employer div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
